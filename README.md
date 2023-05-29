@@ -4,6 +4,10 @@ Repositorio de Anki para el estudio de idiomas con tarjetas personalizadas, grab
 ## Capturas de Pantalla
 
 Incluye algunas capturas de pantalla de tus mazos de tarjetas o del diseño de tu repositorio. Puedes usar imágenes o GIF animados.
+![FrontTemplate](FrontTemplate.png)
+
+![BackTemplate.png](BackTemplate.png)
+
 
 ## Características
 
@@ -14,11 +18,7 @@ Enumera las características clave de tu repositorio, como:
 - Contenido basado en fuentes confiables
 
 ## Requisitos
-
-Enumera los requisitos necesarios para utilizar tu repositorio, como:
-
-- Anki versión X.X.X o superior
-- Sistema operativo compatible (si es necesario)
+- Funcionaba en versión Anki: Version ⁨2.1.60
 
 ## Instalación
 
