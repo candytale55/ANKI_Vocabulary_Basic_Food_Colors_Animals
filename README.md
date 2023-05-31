@@ -3,7 +3,6 @@ Repositorio de Anki para el estudio de idiomas con tarjetas personalizadas, grab
 
 ## Capturas de Pantalla
 
-Incluye algunas capturas de pantalla de tus mazos de tarjetas o del diseño de tu repositorio. Puedes usar imágenes o GIF animados.
 ![FrontTemplate](FrontTemplate.png)
 
 ![BackTemplate.png](BackTemplate.png)
@@ -26,4 +25,4 @@ Proporciona instrucciones claras y concisas sobre cómo instalar y utilizar tu r
 
 ## Licencia
 
-Indica la licencia bajo la cual se distribuye tu repositorio.
+MIT License.
