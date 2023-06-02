@@ -5,14 +5,18 @@ Repositorio de Anki para el estudio de idiomas con tarjetas personalizadas, grab
 ## Notas de Uso y Licencia:
 
 Este mazo de Anki está diseñado para ayudar en el aprendizaje del vocabulario básico de inglés.
+
 Las tarjetas y contenido incluido en este mazo son proporcionados "tal cual" y no hay garantía de su exactitud o completitud.
+
 Las imágenes y archivos de audio utilizados en este mazo se han obtenido de fuentes públicas disponibles, por lo que se presume que son de libre uso. Sin embargo, no se dispone de información sobre su origen o licencias originales. 
+
 Este mazo se proporciona de forma gratuita para su uso exclusivamente con fines educativos y de aprendizaje. Puedes distribuirlo como material de enseñanza, siempre y cuando no tengas ningún objetivo comercial asociado.
 
 Licencia: MIT License.
 
 
 ## Requisitos
+
 - Anki: Version ⁨2.1.60 (última versión en que fue usado, debería funcionar también en versiones superiores)
 
 ## Instalación
@@ -30,6 +34,13 @@ En la segunda nota, se muestra la imagen que representa la palabra y la propia p
 
 ## Capturas de Pantalla
 
+### Tarjeta (Card) 1: ¿Cómo deletreas esta palabra?
+![FrontTemplate 1"¿Cómo deletreas esta palabra?"](Screnshots/1-FrontTemplate.png)
+![BackTemplate 1"¿Cómo deletreas esta palabra?"](Screnshots/1-BackTemplate.png)
+
+### Tarjeta (Card) 2: ¿Cómo pronuncias esta palabra?
+![FrontTemplate 2 "¿Cómo pronuncias esta palabra?"](Screnshots/2-FrontTemplate.png)
+![BackTemplate 2 "¿Cómo pronuncias esta palabra?"](Screnshots/2-BackTemplate.png)
 
 
 
